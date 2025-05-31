@@ -1,6 +1,6 @@
 # Dammaray: SEO & GEO AI Workflow Automation Agent
 
-Dammaray is an open-source AI-powered tool that automates **Search Engine Optimization (SEO)** and **Generative Engine Optimization (GEO)** workflows. Using machine learning and natural language processing (NLP), Dammaray optimizes content for traditional search engines (e.g., Google, Bing) and AI-driven generative platforms (e.g., conversational AI search). It’s designed for digital marketers, content creators, and developers, offering a user-friendly command-line interface (CLI) and automated, data-driven insights.
+[Dammaray](https://www.dammaray.com/) AI is an open-source AI-powered tool that automates **Search Engine Optimization (SEO)** and **Generative Engine Optimization (GEO)** workflows. Using machine learning and natural language processing (NLP), Dammaray optimizes content for traditional search engines (e.g., Google, Bing) and AI-driven generative platforms (e.g., conversational AI search). It’s designed for digital marketers, content creators, and developers, offering a user-friendly command-line interface (CLI) and automated, data-driven insights.
 
 ## Table of Contents
 - [Features](#features)
